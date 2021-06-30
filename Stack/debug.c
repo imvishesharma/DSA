@@ -1,6 +1,6 @@
 /**
  * @file debug.c
- * @brief Debugging The Linked List
+ * @brief Debugging The Stack
  * 
  * Here is the code that has been used to test
  * our own Stack Library Functions.
